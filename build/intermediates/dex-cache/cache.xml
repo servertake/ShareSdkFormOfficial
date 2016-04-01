@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-WhatsApp-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1e11db0b3f376d0efbc3934598d8b4ac3ba395d7">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-WhatsApp-2.7.0_a1041059751a359c069783a62ad9215fd0872e40.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Instagram-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fd1c329ec7cee1cf2f1deba2fc7b2c8a466f9117">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Instagram-2.7.0_1aa15181a87b4ecdd4d5f3bb885d2e97d4f09ccf.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-Moments-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6495d73c75ef46d316525fbcf89292bb40bfcfef">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-Moments-2.7.0_ae4556011ebcb3cb36656ba41f41263b816597ee.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Favorite-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="471edb8603a1c547df2b9b4f830c97a881d325a6">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Favorite-2.7.0_911abca055bbbd4a67cdc6adb3ed95bb4dca4375.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-TencentWeibo-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4f040449556e454137d51011cf016ea7a4756d3d">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-TencentWeibo-2.7.0_abc9ecf14019c295418e7757591d366e95d1d4b5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-VKontakte-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cb02bf225d023ba6de4d311e315fa596d93fd2e0">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-VKontakte-2.7.0_f62cb3374d5484e7d1c06fa01fd7806caa03d5a1.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Tumblr-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cf155fcb4c93d9453d013dc5b9d4c512202696c5">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Tumblr-2.7.0_af8f3924a89f15b79ccdf1af3b007a91d7e97c58.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Pocket-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4d7b842b97091aa6383c6b9e5cc3591559ffe9eb">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Pocket-2.7.0_7d0ab2b375c92d2f4245f449b9445c6ed854a9cc.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-QZone-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e59c1382c126349d3b2a4e45e880710fe649697c">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.7.0_12349dcd4c2c684960e2365d5b465702345f066f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-YouDao-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="19507e7fe7d6c96cdc6c09ebceb7a6e4fa857035">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-YouDao-2.7.0_a80e30fe4b230a721e8449eda196ccb62d8408c5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Bluetooth-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="90abf4f514e4ae5ac4e67bbc65ade08eca8d9b50">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Bluetooth-2.7.0_d733e9564248a205dd1a60ae40f24142bb331433.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="925c0b32df7cfb1256002f7b0f861ff7c02617b7">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.7.0_f01382fd383bf77805e29f24c8493d8978da4507.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KakaoStory-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="00aa2236e98348e7cdf7f945d95583686c8086e8">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-KakaoStory-2.7.0_74ced5b0105268dc6257f15563712262b2b4cb4f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Line-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="207fd0648dcf7c5116df86b858b1e6f8ff16c7c3">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Line-2.7.0_e677f0999103392bf4bf8e2b1c0c1df27ea250f2.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Twitter-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="399bc6fba2d9899125749796cd17f78d8199c9dd">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Twitter-2.7.0_881ebbd6abce5e90e2e271d2ce97aff85d38989a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/MobTools-2016.0301.1053.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fe9bb68bf9983f6fd4882e89ea11bf6f2bbb1ded">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/MobTools-2016.0301.1053_515edcaf9631f298c526e2df4cafabba839de353.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Pinterest-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44c5c76a4e22fcd6846e410840ddca609088e05a">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Pinterest-2.7.0_cc4bcc7c0fb766fade29d1ab222bcaa8ff3702c4.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Moments-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0dfe0a575c3b6c39e2e4b3a74f1bac84b618cca0">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.7.0_055969a117c42192f0f55db081e6f37737a89c3a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-SinaWeibo-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="13ba1716e77463e49438b20880ec361fb55b321f">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.7.0_4ba7a95f1d5ee26b479acbe3f6bd1da4116c56f9.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-GooglePlus-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eb089463d18457e464cde897054b3fce0396a9c9">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-GooglePlus-2.7.0_142233c3dc4d1dfcfb992983a2b112aac2022e0e.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-SohuSuishenkan-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0731b21fcac65312a0e60a6cce9119c417e616c8">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-SohuSuishenkan-2.7.0_747bd6f0e4c4e1fc1674cabcd36dbba8f42dccd8.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Facebook-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4f5843173ef60b3483a04180dc6364065ac5980f">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Facebook-2.7.0_553b5d7f16dbfb0e264661576eb406786bbcdcd9.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Renren-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4ac63c23a4a5d6dc8918b2895aa71315373c4606">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Renren-2.7.0_27d3beaff5093ca239732bd1fa187e17af875eaf.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Evernote-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6f7311379e28d2e4af01076c776e6f5ebedd76bc">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Evernote-2.7.0_9bcc578b952610fdb26c62bf47b1c3fabf49c642.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="89e252feaeae2a7baa6b5e1ac4e3fc1d4c4e70d1">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.7.0_a6b4283dcd20fa42367545982b43894fdb0ffe2d.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Foursquare-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="431904050b3552208ae8e3935f6f0cda7797651b">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Foursquare-2.7.0_25fb531341469034057a2596facb89c344f7112c.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Email-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7d7bd6a1c3e0aaff4365176588d8f2f505755622">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Email-2.7.0_fdac02ae95963755f24aa6658c615eec597de34f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Dropbox-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ee3685ad17d6036b2eebf53444baf2961e5307bb">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Dropbox-2.7.0_bc2b1a04703948f45289c38a5012f77102257983.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="77370e7e49ebe4ae5b9c32e07424235a59f9e12c">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.7.0_b31218f06c6a22b2185f2c5e0b7f55241e1afafa.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-QQ-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="08e3ecb5b9a36d03bdc9cd54078e221fd2ef401d">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.7.0_6dca3b610da9a8b12eef87ce8492d39cc64f8974.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Alipay-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5697a1503ccf5c52e3f661a323018c0a1a14fe6f">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Alipay-2.7.0_84582b8872bf1a3bb36908d78c80baa9f0a0541a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dafcafb9cd239efe43e51a706a080945de66ff47">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-2.7.0_7311efeaba2fea4a2db673e165c3e578b30021df.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-ShortMessage-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4351f32b2190bc5f16f49d1ef5629281d598f82d">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-ShortMessage-2.7.0_e3ed092d8ffb65995b17182a52d68ff914abec67.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Douban-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eabbfbd4ee1844109712ef303cd61f5930e20abe">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Douban-2.7.0_c8775dbadd636257511e75580bf2bcdbd900adde.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Instapaper-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a5befce730a47e848c51286c435e3672b8e6d590">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Instapaper-2.7.0_d60e9fb3df768df1929397c932627f63549f6479.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KakaoTalk-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5b3d014fe5e78062f1088cf5479d3822fe371347">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-KakaoTalk-2.7.0_5d975f21af8ca0e4ea855ca932650b913d54f6e9.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-FacebookMessenger-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ada62a3b29e82f6b1c3cb5b6abc5290802caa275">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-FacebookMessenger-2.7.0_092109e0a1e3515f680d879263d411bde33eda55.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="43a21d5eff71d07a208978003797efc472e81a57">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-Core-2.7.0_7119d327728636c961c392d6aa2b7389d5832f8e.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Mingdao-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cccfb4b8415b885fd0ba98d3888e5a0dd5ed027e">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Mingdao-2.7.0_fca6db2791321075711a2857610098854ddb5cf7.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/MobCommons-2016.0301.1053.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9ac79e45bfe01ce2bac0a1d1ead2aba2524f4c8b">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/MobCommons-2016.0301.1053_e2a6ebabf74c714f6a083e36a7a2a1009a7d8777.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Linkedin-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddfe6cce3ccf8b0b75f70fee8a9cb1795fc7ef9e">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Linkedin-2.7.0_e97c130d4132a2f0560f1f88b1610a64df0027fd.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Flickr-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="69a9dcb2599511c59155fb9be80f33622ab52064">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Flickr-2.7.0_fb0a2ac9db39b6e0bcc4b12a6048cf6b2c17245a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KaiXin-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="25d0c518b85d60df8905d0fe4e66ef78a26de94c">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-KaiXin-2.7.0_953bd81e7b4668c9c46865fa8ed02bd7049bf7fe.jar" />
+    </item>
+    <item
+        jar="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Kakao-Core-2.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c12cf83e4e6caadc1f5a9b46a216c437a44bf224">
+        <dex dex="/Users/zhangxixiang/Downloads/v2.7.0/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/pre-dexed/debug/ShareSDK-Kakao-Core-2.7.0_2aacffa67d687626e85cd976424542719ad83cbc.jar" />
+    </item>
+
+</items>

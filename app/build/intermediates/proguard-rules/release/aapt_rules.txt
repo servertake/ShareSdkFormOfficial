@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:37
+-keep class cn.sharesdk.share.demo.DerectShareWithEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class cn.sharesdk.share.demo.DerectShareWithoutEditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class cn.sharesdk.share.demo.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class cn.sharesdk.share.demo.apshare.ShareEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class cn.sharesdk.share.demo.wxapi.WXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class cn.sharesdk.share.demo.yxapi.YXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
